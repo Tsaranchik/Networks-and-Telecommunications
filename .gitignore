@@ -1,0 +1,10 @@
+.*/
+*.log
+*.txt
+*.decrypted
+*.encrypted
+.*
+__pycache__
+
+!requirements.txt
+!.gitignore

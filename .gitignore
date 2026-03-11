@@ -3,8 +3,9 @@
 *.txt
 *.decrypted
 *.encrypted
-.*
-__pycache__
+__pycache__/
+.pytest_cache
+.env
+.envrc
 
 !requirements.txt
-!.gitignore
